@@ -1,0 +1,1 @@
+worker: python3 /app/jobServiceApp/main.py
